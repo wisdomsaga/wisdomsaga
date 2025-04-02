@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://64.media.tumblr.com/48418a5e45020a652f34580ee9065e9b/5bc44e08a02eaf66-da/s500x750/73c0db910063fc33e548a85faa8a98f5a6384379.pnj" width="120">
+</p>
 
-<!--
-**wisdomsaga/wisdomsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<p align="center">
+andrew  ou  telemachus<br>
+he ノ they   +  w2i pref.<br>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+sign atabook ! ^‿^
+</p>
